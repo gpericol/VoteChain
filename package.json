@@ -1,0 +1,14 @@
+{
+  "name": "votechain",
+  "version": "1.0.0",
+  "description": "why not a blockchain?",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified, tests are for losers!\" && exit 1"
+  },
+  "author": "Gianluca Pericoli",
+  "license": "SEE IN LICENCE",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
